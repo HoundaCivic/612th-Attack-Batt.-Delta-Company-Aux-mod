@@ -1,0 +1,9 @@
+name = "612th Attack Bat. Delta Co.";
+author = "Hound";
+picture = "612thABD_Patches\612th_modpicturelogo.paa";
+logoSmall = "612thABD_Patches\612th_modlogosmall.paa";
+logo = "612thABD_Patches\612th_modlogo.paa";
+logoOver = "612thABD_Patches\612th_modlogo.paa";
+description = "This is Echo 19, yes a halo reference bite me";
+hideName = 0;
+hidePicture = 0;
